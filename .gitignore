@@ -46,3 +46,6 @@
 *.apk
 *.aab
 *.tgz
+
+# Keep Vuforia package required for this project
+!/[Pp]ackages/com.ptc.vuforia.engine-11.4.4.tgz
